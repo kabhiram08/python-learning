@@ -1,3 +1,5 @@
+#PathFinder ; Day 4 Project
+
 #Welcome line
 
 print("\nHey buddy! Welcome to PathFinder!")
